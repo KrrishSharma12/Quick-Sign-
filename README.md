@@ -31,4 +31,5 @@ Quick Sign is a simple and interactive web app built using HTML5 Canvas that all
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/quick-sign-canvas-app.git
+   git clone https://github.com/KrrishSharma12/Quick-Sign-.git
+
